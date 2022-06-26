@@ -23,6 +23,7 @@
 #include <KDecoration2/DecoratedClient>
 #include <KColorUtils>
 
+#include <QPainterPath>
 #include <QPainter>
 
 namespace Breeze
